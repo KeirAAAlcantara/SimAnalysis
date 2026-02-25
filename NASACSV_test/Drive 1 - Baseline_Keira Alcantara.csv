@@ -1,0 +1,5 @@
+Participant,Task Id,Task Name,Mental Demand,Physical Demand,Temporal Demand,Performance,Effort,Frustration,Raw Score,MD Weight,PD Weight,TD Weight,PF Weight,EF Weight,FR Weight,Weighted Score
+Keira Alcantara,1,NC,15,15,15,15,15,15,15,-1,-1,-1,-1,-1,-1,-1
+Keira Alcantara,2,AO,30,15,60,35,40,55,39.166666666666700,-1,-1,-1,-1,-1,-1,-1
+Keira Alcantara,3,HO,60,40,35,15,20,35,34.166666666666700,-1,-1,-1,-1,-1,-1,-1
+Keira Alcantara,4,BC,90,70,60,50,50,70,65,-1,-1,-1,-1,-1,-1,-1

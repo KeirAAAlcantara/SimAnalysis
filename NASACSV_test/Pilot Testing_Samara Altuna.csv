@@ -1,0 +1,5 @@
+Participant,Task Id,Task Name,Mental Demand,Physical Demand,Temporal Demand,Performance,Effort,Frustration,Raw Score,MD Weight,PD Weight,TD Weight,PF Weight,EF Weight,FR Weight,Weighted Score
+Samara Altuna,1,NC,45,35,55,15,70,50,45,-1,-1,-1,-1,-1,-1,-1
+Samara Altuna,2,BC,20,20,70,45,70,50,45.833333333333300,-1,-1,-1,-1,-1,-1,-1
+Samara Altuna,3,AO,35,45,70,5,90,50,49.166666666666700,-1,-1,-1,-1,-1,-1,-1
+Samara Altuna,4,HO,60,55,90,0,100,50,59.166666666666700,-1,-1,-1,-1,-1,-1,-1

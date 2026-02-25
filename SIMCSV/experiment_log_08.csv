@@ -1,0 +1,15 @@
+timestamp,phase,scenario,speed_kmh,event,details
+1771676827.68,1,START,0,PHASE_START,Baseline
+1771676871.73,1,TRAFFIC_LIGHT,7.08,RED_LIGHT_VIOLATION,"TrafficLight Violation at Location(x=-58.169281, y=-2.177876, z=0.001660)"
+1771676872.58,1,TRAFFIC_LIGHT,10.8,REACTION,"action=REDUCE_THROTTLE|time=0.85s|control={'throttle': 0.06620238721370697, 'brake': 0.0, 'steer': -0.006008983589708805, 'hand_brake': False}"
+1771676966.59,1,SPEED_LIMIT,40.79,REACTION,"action=NO_REACTION|time=3.05s|control={'throttle': 0.46758678555488586, 'brake': 0.0, 'steer': -0.0012084966292604804, 'hand_brake': False}"
+1771676972.13,1,SPEED_LIMIT,43.13,SPEED_VIOLATION,"Speed 43.13 km/h > limit 30.00 km/h at Location(x=18.939816, y=135.956848, z=0.001795)"
+1771676972.13,1,SPEED_LIMIT,36.9,REACTION,"action=VIOLATION_RESOLVED|time=8.59s|reaction_logged=True|control={'throttle': 0.0, 'brake': 0.0, 'steer': -0.03452298417687416, 'hand_brake': False}"
+1771676979.7,1,SPEED_LIMIT,43.89,REACTION,"action=REDUCE_THROTTLE|time=2.10s|control={'throttle': 0.3221718668937683, 'brake': 0.0, 'steer': -0.026122882962226868, 'hand_brake': False}"
+1771676980.83,1,SPEED_LIMIT,43.89,SPEED_VIOLATION,"Speed 43.89 km/h > limit 30.00 km/h at Location(x=148.145538, y=128.518951, z=0.452718)"
+1771676980.83,1,SPEED_LIMIT,36.99,REACTION,"action=VIOLATION_RESOLVED|time=3.23s|reaction_logged=True|control={'throttle': 0.0, 'brake': 0.0, 'steer': -0.03176727145910263, 'hand_brake': False}"
+1771677190.13,1,SPEED_LIMIT,37.15,SPEED_VIOLATION,"Speed 37.15 km/h > limit 30.00 km/h at Location(x=-66.709335, y=-134.447113, z=-0.002289)"
+1771677190.13,1,SPEED_LIMIT,36.94,REACTION,"action=VIOLATION_RESOLVED|time=0.30s|reaction_logged=False|control={'throttle': 0.38787513971328735, 'brake': 0.0, 'steer': 0.0034240856766700745, 'hand_brake': False}"
+1771677198.07,1,TRAFFIC_LIGHT,25.38,YELLOW_LIGHT_PASS,"Passed yellow at Location(x=-19.510548, y=-133.628937, z=0.001631)"
+1771677216.77,1,STOP,389.1,PHASE_STOP,Baseline
+1771677216.77,1,STOP,389.1,PHASE_STOP,Baseline

@@ -1,0 +1,5 @@
+Participant,Task Id,Task Name,Mental Demand,Physical Demand,Temporal Demand,Performance,Effort,Frustration,Raw Score,MD Weight,PD Weight,TD Weight,PF Weight,EF Weight,FR Weight,Weighted Score
+19,1,AO,50,65,40,15,65,50,47.5,-1,-1,-1,-1,-1,-1,-1
+19,2,HO,50,65,40,15,65,70,50.833333333333336,-1,-1,-1,-1,-1,-1,-1
+19,3,AH,50,65,30,25,65,70,50.833333333333336,-1,-1,-1,-1,-1,-1,-1
+19,4,NC,50,65,30,40,65,5,42.5,-1,-1,-1,-1,-1,-1,-1
